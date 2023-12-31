@@ -1,0 +1,23 @@
+                            Duty Roaster
+Ortho:
+(1)Dr. Sanjay Niraula    10am-3pm
+(2)Dr. Nilima Pathak     3pm-10pm
+
+Gyno:
+(1)Dr. Nina Acharya      10am-3pm
+(2)Dr. Sarthak Thapa     1pm-5pm
+
+Neuro:
+(1)Dr. Sanjay Karki      10am-2pm
+(2)Dr. Ram Chandra       3pm-6pm
+
+Cardio:
+(1)Dr. Neera Rai         8am-2pm
+(2)Dr. Sujeeta Shrestha  3pm-7pm
+
+
+EMERGENCY:
+(1)Dr. Noir Phuyal
+(2)Dr. Anisha Regmi
+(3)Dr. Sujit Bhandari
+
